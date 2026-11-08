@@ -58,10 +58,10 @@ The settings live in the patch row the bundle inserts, in `cordis.patch.yml`:
 
 This tool is vibe'd by **Qwen3.8-Flash-Next** (deployed via Strata) in DSH.
 
-**Disclaimer:** This is just a for-fun weekend project and should **NOT** be used in production environments. This tool is provided "as is" with **NO WARRANTY**.
+**Disclaimer:** This is just a for-fun weekend project and should **NOT** be used in production environments. The code is provided "as is" with **NO WARRANTY**.
 
 Feedbacks and contributions to this project are welcome! :D
 
 ## License
 
-This tool is released under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html).
+This project is released under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html).
