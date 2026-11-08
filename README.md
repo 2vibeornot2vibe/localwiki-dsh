@@ -56,7 +56,7 @@ The settings live in the patch row the bundle inserts, in `cordis.patch.yml`:
 
 ## Credits
 
-This tool is vibe'd by **Qwen3.8-Flash-Next** (deployed via Strata) in DSH.
+This plugin is vibe'd by **Qwen3.8-Flash-Next** (deployed via Strata) in DSH.
 
 **Disclaimer:** This is just a for-fun weekend project and should **NOT** be used in production environments. The code is provided "as is" with **NO WARRANTY**.
 
