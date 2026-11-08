@@ -1,4 +1,4 @@
-# LocalWiki-DSH: Offline wiki search and reading for DeepSeek Harness
+# LocalWiki-DSH: Offline wiki (Kiwix) search and reading for DeepSeek Harness
 
 A Cordis Host plugin that gives the agent four tools over a local **kiwix-serve**
 server and whatever ZIM collections it is serving:
