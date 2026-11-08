@@ -1,0 +1,12 @@
+- insert:
+    - id: localwiki-dsh
+      name: '@local/localwiki-dsh'
+      config:
+        kiwixBaseUrl: http://127.0.0.1:8080
+        searchLimit: 10
+        maxChars: 8000
+        maxImageList: 8
+        maxLinks: 20
+        maxImageBytes: 8388608
+        maxSvgBytes: 400000
+        requestTimeoutMs: 20000

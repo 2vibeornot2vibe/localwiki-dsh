@@ -1,0 +1,31 @@
+{
+  "name": "@local/localwiki-dsh",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Search and read offline wiki articles served by kiwix-serve.",
+  "exports": {
+    ".": "./index.js",
+    "./localwiki": "./localwiki.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "localwiki.js",
+    "cordis.patch.yml",
+    "README.md",
+    "locale/*.json",
+    "icon.svg"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "peerDependencies": {
+    "@deepseek-ai/cordis": "*",
+    "@deepseek-ai/dsh-tools": "*",
+    "@deepseek-ai/schemastery": "*"
+  }
+}
